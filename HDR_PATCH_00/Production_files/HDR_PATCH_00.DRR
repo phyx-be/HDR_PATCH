@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HDR_PATCH_00.PcbDoc   27/08/2015  9:52:54
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HDR_PATCH_00.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.56mil (0.70002mm)     Round          50               6.74 Inch (171.19 mm)
+T2        39.37mil (1mm)           Round          44               5.41 Inch (137.42 mm)
+T3        125.98mil (3.19989mm)    Round          4         NPTH   5.08 Inch (129.00 mm)
+---------------------------------------------------------------------------
+Totals                                            98               17.23 Inch (437.61 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
